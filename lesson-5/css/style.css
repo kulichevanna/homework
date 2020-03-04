@@ -1,0 +1,20 @@
+body {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  color: red;
+}
+
+.content {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: white;
+}
