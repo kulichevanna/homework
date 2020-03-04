@@ -1,0 +1,83 @@
+@font-face {
+  font-family: ProximaNova;
+  src: url(fonts/ProximaNova-Regular.ttf) format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fafafa;
+  width: 1920px;
+  height: 723px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 125px;
+
+  font-family: ProximaNova;
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #000000;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cardd {
+    margin: 0 30px
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-family: ProximaNova;
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #000000;
+}
+
+.price {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+  font-family: ProximaNova;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #000000;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 55px;
+  border: 1px solid #23bac1;
+
+  font-family: ProximaNova;
+  font-size: 13px;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #23bac1;
+  text-decoration: none;
+}
