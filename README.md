@@ -8,3 +8,5 @@
 <a href="https://kulichevanna.github.io/homework/lesson-5/"><b>Домашнее задание №5</b></a>
 
 <a href="https://kulichevanna.github.io/homework/lesson-6/"><b>Домашнее задание №6</b></a>
+
+<a href="https://kulichevanna.github.io/homework/lesson-7/"><b>Домашнее задание №7</b></a>
